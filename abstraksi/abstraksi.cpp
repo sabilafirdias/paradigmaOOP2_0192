@@ -27,4 +27,4 @@ int main()
     return 0;
 }
 
-//abstraksi: menyembunyikan proses
+// abstraksi: menyembunyikan proses
